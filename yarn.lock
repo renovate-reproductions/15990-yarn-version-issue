@@ -9,16 +9,16 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "docs@workspace:docs"
   dependencies:
-    envinfo: 7.8.0
+    envinfo: 7.8.1
   languageName: unknown
   linkType: soft
 
-"envinfo@npm:7.8.0":
-  version: 7.8.0
-  resolution: "envinfo@npm:7.8.0"
+"envinfo@npm:7.8.1":
+  version: 7.8.1
+  resolution: "envinfo@npm:7.8.1"
   bin:
     envinfo: dist/cli.js
-  checksum: 27733b917c38407738a03b3ef750ac5c8e639cb1821bccd5a030b6b9cfd60cc6194cc2452a110fe1849e132c5289e4110fffacecb93253d32b7b6d30467ec97f
+  checksum: de736c98d6311c78523628ff127af138451b162e57af5293c1b984ca821d0aeb9c849537d2fde0434011bed33f6bca5310ca2aab8a51a3f28fc719e89045d648
   languageName: node
   linkType: hard
 
