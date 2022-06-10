@@ -5,6 +5,23 @@ __metadata:
   version: 6
   cacheKey: 8
 
+"docs@workspace:docs":
+  version: 0.0.0-use.local
+  resolution: "docs@workspace:docs"
+  dependencies:
+    envinfo: 7.8.0
+  languageName: unknown
+  linkType: soft
+
+"envinfo@npm:7.8.0":
+  version: 7.8.0
+  resolution: "envinfo@npm:7.8.0"
+  bin:
+    envinfo: dist/cli.js
+  checksum: 27733b917c38407738a03b3ef750ac5c8e639cb1821bccd5a030b6b9cfd60cc6194cc2452a110fe1849e132c5289e4110fffacecb93253d32b7b6d30467ec97f
+  languageName: node
+  linkType: hard
+
 "husky@npm:7.0.0":
   version: 7.0.0
   resolution: "husky@npm:7.0.0"
