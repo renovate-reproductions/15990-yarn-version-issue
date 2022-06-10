@@ -22,12 +22,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"husky@npm:7.0.0":
-  version: 7.0.0
-  resolution: "husky@npm:7.0.0"
+"husky@npm:8.0.1":
+  version: 8.0.1
+  resolution: "husky@npm:8.0.1"
   bin:
     husky: lib/bin.js
-  checksum: 2b9848c6365ad43110e19cffbf715ef695f2bcd8c98ee263b67389b492fe6b4045cad7be2af393b89c2d5effe3b97a6ff0443f869e9407d954bb93e17dade8a0
+  checksum: 943a73a13d0201318fd30e83d299bb81d866bd245b69e6277804c3b462638dc1921694cb94c2b8c920a4a187060f7d6058d3365152865406352e934c5fff70dc
   languageName: node
   linkType: hard
 
@@ -35,6 +35,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "yarn-version-issue@workspace:."
   dependencies:
-    husky: 7.0.0
+    husky: 8.0.1
   languageName: unknown
   linkType: soft
